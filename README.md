@@ -59,7 +59,7 @@ Bu stratejilerin uygulanması, müşteri churnünü azaltabilir ve şirketin ba�
 
 Proje dosyalarını çalıştırmak ve modelleri tekrar eğitmek için aşağıdaki adımları izleyebilirsiniz:
 
-1. Repoyu klonlayın: `git clone https://github.com/sizin_kullanici_adi/telecom-churn-prediction.git`
+1. Repoyu klonlayın: `git clone https://github.com/ThecoderPinar/telecommunication-customer-churn-analysis-and-prediction.git`
 2. Gerekli kütüphaneleri yükleyin: `pip install -r requirements.txt`
 3. Jupyter Notebook dosyasını çalıştırın: `jupyter notebook`
 
